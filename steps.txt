@@ -1,0 +1,4 @@
+1- Select the data that you want to study
+2- Convert data into CSV file (drop empty numbers)
+
+
